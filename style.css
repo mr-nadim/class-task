@@ -1,0 +1,17 @@
+body{
+    background-image: url(./files/pexels-pixabay-276514.jpg);
+    background-size: cover;
+}
+    h1,h3,p{
+        text-align: center; 
+    }
+     h2{
+
+        text-align: right;
+    }
+    h2{
+        color:white;
+    }
+    button{
+        background-color: yellow; 
+    }
